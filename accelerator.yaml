@@ -1,0 +1,7 @@
+accelerator:
+  displayName: Golang Web App
+  description: Quickly build and run web apps written in Golang.
+  iconUrl: https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg
+  tags:
+    - webapp
+    - golang
